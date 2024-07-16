@@ -105,6 +105,8 @@ The same interpretation applies to label2 and label4.\
 
 For more information, please check out ``/code/Visualization/visualize_one_DDI_pair.ipynb``.\
 
+# Data and weights
+Data and weights for MeTDDI can be downloaded from [here](http://www.wengzq-lab.cn/ddi/MeTDDI_downloads.php).
 # Citation
 {
     
