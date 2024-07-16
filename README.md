@@ -23,11 +23,11 @@ safer therapies for patients.
 
 ![Overview of MeTDDI workflow](MeTDDI_workflow.png)
 
-## 1. Requirements
+# 1. Requirements
 
 To reproduce **MeTDDI**, the python==3.8,tensorflow-gpu==2.4.1 or ==2.5.0, ipython==8.7.0, matplotlib==3.6.2, pandas==1.5.2, rdkit-pypi==2022.9.3, scikit-learn==1.2.0 and network==2.8.8 are required.
 
-## 2. Usage
+# 2. Usage
 
 ### 2.1. Data
 
