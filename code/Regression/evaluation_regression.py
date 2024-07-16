@@ -145,7 +145,7 @@ atom_inputs2,atom_adj_inputs2,atom_dist_inputs2\
 ,atom_match_matrix2,sum_atoms2,motif_inputs2,motif_adj_inputs2,motif_dist_inputs2],outputs =[output1_2])
 
 # %%
-models.load_weights('/code/Regression/saved_weights/regression_fold1.h5') 
+models.load_weights('/code/Regression/saved_weights/regression_fold.h5') 
 
 # %%
 ### evaluation 
