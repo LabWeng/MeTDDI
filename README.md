@@ -107,7 +107,13 @@ For more information, please check out ``/code/Visualization/visualize_one_DDI_p
 
 # Data and weights
 Data and weights for MeTDDI can be downloaded from [here](http://www.wengzq-lab.cn/ddi/MeTDDI_downloads.php).
+
+# Acknowledgements
+
+The backbone implementation is referenced to [https://github.com/zhang-xuan1314/Molecular-graph-BERT](https://github.com/zhang-xuan1314/Molecular-graph-BERT).
+
 # Citation
+
 {
     
 }
