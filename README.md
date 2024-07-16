@@ -85,7 +85,7 @@ To reproduce Fig. 3. and Supplementary Table 5 in the paper, use the ``/code/Vis
 # Drug role intepretation 
 **Despite the DDI prediction, it is necessary to identify the perpetrators and victims (or roles) in DDI pairs. This helps drug researchers or clinicians understand the possible changes in the metabolism of co-prescribed drugs**. \
 
-**Labels**:
+**Labels**:\
 label1: The metabolism of Drug 1 can be decreased when combined with Drug 2.\
 label2: The metabolism of Drug 1 can be increased when combined with Drug 2.\
 label3: The metabolism of Drug 2 can be decreased when combined with Drug 1.\
