@@ -113,8 +113,16 @@ Data and weights for MeTDDI can be downloaded from [here](http://www.wengzq-lab.
 The backbone implementation is referenced to [https://github.com/zhang-xuan1314/Molecular-graph-BERT](https://github.com/zhang-xuan1314/Molecular-graph-BERT).
 
 # Citation
-
+Please cite our paper if you find this work useful in your research.
 {
-    
+    @article{Zhong2024Learning,
+	journal = {Nature Machine Intelligence},
+	doi = {10.1038/s42256-024-00888-6},
+	issn = {2522-5839},
+	publisher = {Nature Publishing Group},
+	title = {Learning motif-based graphs for drug–drug interaction prediction via local–global self-attention},
+	url = {http://dx.doi.org/10.1038/s42256-024-00888-6},
+	author = {Zhong, Yi and Li, Gaozheng and Yang, Ji and Zheng, Houbing and Yu, Yongqiang and Zhang, Jiheng and Luo, Heng and Wang, Biao and Weng, Zuquan},
+	year = {2024},
 }
 
