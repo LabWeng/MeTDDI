@@ -31,7 +31,7 @@ To reproduce **MeTDDI**, the python==3.8,tensorflow-gpu==2.4.1 or ==2.5.0, ipyth
 
 ### 2.1. Data
 
-Data for model training and testing is available in the folder ``data/`` (e.g. ``/data/Classification/UnseenDDIs``) . The training, validaton and test dataset files start with the "tr_","val_" and "tst_".
+Data for model training and testing is available in the folder ``data/`` (e.g. ``/data/Classification/UnseenDDIs``) . The training, validation and test dataset files start with the "tr_","val_" and "tst_".
 
 
 ### 2.2. Tasks 
