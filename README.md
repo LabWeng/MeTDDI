@@ -82,7 +82,7 @@ Follow the "preprocessing.ipynb" files and generate the "preprocessed_drug_info.
 ### 2.5. Visualization
 To reproduce Fig. 3. and Supplementary Table 5 in the paper, use the ``/code/Visualization/MeTDDI_visualize.ipynb`` and follow the demos to obtain results. A user can also use the ``/code/Visualization/visualize_one_DDI_pair.ipynb`` for one DDI pair visualization. The weights for visualization is based on ``/code/Visualization/weights_for_intepretability.h5``.
 
-# Drug role intepretation 
+# Drug role interpretation 
 **Despite the DDI prediction, it is necessary to identify the perpetrators and victims (or roles) in DDI pairs. This helps drug researchers or clinicians understand the possible changes in the metabolism of co-prescribed drugs**. \
 
 **Labels**:\
