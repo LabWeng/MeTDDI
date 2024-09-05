@@ -37,7 +37,7 @@ atom_dist_inputs = Input(shape=(None,None), name= "atom_dist_matrix")
 atom_match_matrix = Input(shape=(None,None), name= "atom_match_matrix")
 sum_atoms = Input(shape=(None,None), name= "sum_atoms")
 training = False
-class DDI_Intepretation(object):
+class DDI_Interpretation(object):
     def __init__(self,weight_path = r'weights.02-0.18.h5'):
         ### build atom_level model
         Outseq_atom,*_,encoder_padding_mask_atom = EncoderModel_atom(num_layers=2,d_model=256,dff=dff,num_heads=4)(atom_inputs,adjoin_matrix = atom_adj_inputs,\
