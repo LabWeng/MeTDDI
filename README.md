@@ -67,7 +67,7 @@ for training and
     $ python -u evaluation_regression.py
 ```
 
-for evluation.
+for evaluation.
 
 ### 2.3. To reproduce Fig. 4.
 To reproduce Fig. 4., using 
@@ -93,7 +93,7 @@ label4: The metabolism of Drug 2 can be increased when combined with Drug 1.\
 Please note that label1 and label2 are the metabolic DDI descriptions in DrugBank (the semantic order), 
 while label3 and label4 are the incorrect descriptions.\
 
-**MeTDDI is sensitive to changes of the drug input order**.\
+**MeTDDI is sensitive to the changes of the drug input order**.\
 
 Using paroxetine and nevirapine as an example, we take drug_B as paroxetine and drug_A as nevirapine. \
 If the predicted label for this pair is label1, we can interpret that paroxetine is the perpetrator in this DDI, 
